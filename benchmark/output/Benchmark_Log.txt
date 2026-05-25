@@ -1,0 +1,355 @@
+=========================================================
+     BÁO CÁO ĐẦY ĐỦ CHI TIẾT VI PHẠM LỊCH TRỰC COI THI    
+=========================================================
+
+=> TỔNG ĐIỂM PHẠT CHUNG (BENCHMARK SCORE): 33710.79
+
+[PHẦN 1] CHI TIẾT VI PHẠM RÀNG BUỘC CỨNG (HARD CONSTRAINTS)
+-----------------------------------------------------------------
+📌 RB1_TrungThoiGian: PASS
+📌 RB2_NguonLuc: PASS
+📌 RB4_DuGiamThi: FAIL (65 lỗi)
+   -> Ca thi 20260531_2 tại Cơ sở 1 (Ngày 31/05/2026): Yêu cầu 4 người, nhưng thực tế đang xếp 2 người.
+   -> Ca thi 20260531_3 tại Cơ sở 1 (Ngày 31/05/2026): Yêu cầu 4 người, nhưng thực tế đang xếp 1 người.
+   -> Ca thi 20260601_1 tại Cơ sở 2 (Ngày 01/06/2026): Yêu cầu 1 người, nhưng thực tế đang xếp 6 người.
+   -> Ca thi 20260601_2 tại Cơ sở 2 (Ngày 01/06/2026): Yêu cầu 32 người, nhưng thực tế đang xếp 6 người.
+   -> Ca thi 20260601_3 tại Cơ sở 2 (Ngày 01/06/2026): Yêu cầu 28 người, nhưng thực tế đang xếp 5 người.
+   -> Ca thi 20260601_4 tại Cơ sở 2 (Ngày 01/06/2026): Yêu cầu 1 người, nhưng thực tế đang xếp 7 người.
+   -> Ca thi 20260601_5 tại Cơ sở 1 (Ngày 01/06/2026): Yêu cầu 1 người, nhưng thực tế đang xếp 9 người.
+   -> Ca thi 20260608_2 tại Cơ sở 1 (Ngày 08/06/2026): Yêu cầu 30 người, nhưng thực tế đang xếp 3 người.
+   -> Ca thi 20260608_3 tại Cơ sở 1 (Ngày 08/06/2026): Yêu cầu 30 người, nhưng thực tế đang xếp 9 người.
+   -> Ca thi 20260608_4 tại Cơ sở 1 (Ngày 08/06/2026): Yêu cầu 4 người, nhưng thực tế đang xếp 6 người.
+   -> Ca thi 20260518_5 tại Cơ sở 1 (Ngày 18/05/2026): Yêu cầu 2 người, nhưng thực tế đang xếp 5 người.
+   -> Ca thi 20260525_2 tại Cơ sở 2 (Ngày 25/05/2026): Yêu cầu 17 người, nhưng thực tế đang xếp 9 người.
+   -> Ca thi 20260525_5 tại Cơ sở 1 (Ngày 25/05/2026): Yêu cầu 3 người, nhưng thực tế đang xếp 6 người.
+   -> Ca thi 20260602_1 tại Cơ sở 2 (Ngày 02/06/2026): Yêu cầu 1 người, nhưng thực tế đang xếp 7 người.
+   -> Ca thi 20260602_2 tại Cơ sở 2 (Ngày 02/06/2026): Yêu cầu 32 người, nhưng thực tế đang xếp 3 người.
+   -> Ca thi 20260602_3 tại Cơ sở 2 (Ngày 02/06/2026): Yêu cầu 32 người, nhưng thực tế đang xếp 3 người.
+   -> Ca thi 20260602_4 tại Cơ sở 2 (Ngày 02/06/2026): Yêu cầu 15 người, nhưng thực tế đang xếp 7 người.
+   -> Ca thi 20260602_5 tại Cơ sở 1 (Ngày 02/06/2026): Yêu cầu 2 người, nhưng thực tế đang xếp 3 người.
+   -> Ca thi 20260609_2 tại Cơ sở 1 (Ngày 09/06/2026): Yêu cầu 5 người, nhưng thực tế đang xếp 3 người.
+   -> Ca thi 20260609_2 tại Cơ sở 2 (Ngày 09/06/2026): Yêu cầu 20 người, nhưng thực tế đang xếp 8 người.
+   -> Ca thi 20260609_3 tại Cơ sở 2 (Ngày 09/06/2026): Yêu cầu 13 người, nhưng thực tế đang xếp 4 người.
+   -> Ca thi 20260519_5 tại Cơ sở 1 (Ngày 19/05/2026): Yêu cầu 3 người, nhưng thực tế đang xếp 5 người.
+   -> Ca thi 20260526_5 tại Cơ sở 1 (Ngày 26/05/2026): Yêu cầu 2 người, nhưng thực tế đang xếp 3 người.
+   -> Ca thi 20260603_1 tại Cơ sở 2 (Ngày 03/06/2026): Yêu cầu 31 người, nhưng thực tế đang xếp 9 người.
+   -> Ca thi 20260603_2 tại Cơ sở 2 (Ngày 03/06/2026): Yêu cầu 31 người, nhưng thực tế đang xếp 5 người.
+   -> Ca thi 20260603_3 tại Cơ sở 2 (Ngày 03/06/2026): Yêu cầu 31 người, nhưng thực tế đang xếp 7 người.
+   -> Ca thi 20260603_4 tại Cơ sở 2 (Ngày 03/06/2026): Yêu cầu 21 người, nhưng thực tế đang xếp 1 người.
+   -> Ca thi 20260610_3 tại Cơ sở 1 (Ngày 10/06/2026): Yêu cầu 4 người, nhưng thực tế đang xếp 5 người.
+   -> Ca thi 20260610_3 tại Cơ sở 2 (Ngày 10/06/2026): Yêu cầu 30 người, nhưng thực tế đang xếp 1 người.
+   -> Ca thi 20260527_2 tại Cơ sở 2 (Ngày 27/05/2026): Yêu cầu 2 người, nhưng thực tế đang xếp 4 người.
+   -> Ca thi 20260527_5 tại Cơ sở 1 (Ngày 27/05/2026): Yêu cầu 4 người, nhưng thực tế đang xếp 1 người.
+   -> Ca thi 20260604_1 tại Cơ sở 2 (Ngày 04/06/2026): Yêu cầu 10 người, nhưng thực tế đang xếp 1 người.
+   -> Ca thi 20260604_2 tại Cơ sở 1 (Ngày 04/06/2026): Yêu cầu 7 người, nhưng thực tế đang xếp 4 người.
+   -> Ca thi 20260604_2 tại Cơ sở 2 (Ngày 04/06/2026): Yêu cầu 4 người, nhưng thực tế đang xếp 7 người.
+   -> Ca thi 20260604_3 tại Cơ sở 2 (Ngày 04/06/2026): Yêu cầu 2 người, nhưng thực tế đang xếp 1 người.
+   -> Ca thi 20260611_3 tại Cơ sở 1 (Ngày 11/06/2026): Yêu cầu 2 người, nhưng thực tế đang xếp 4 người.
+   -> Ca thi 20260611_3 tại Cơ sở 2 (Ngày 11/06/2026): Yêu cầu 29 người, nhưng thực tế đang xếp 5 người.
+   -> Ca thi 20260521_5 tại Cơ sở 1 (Ngày 21/05/2026): Yêu cầu 2 người, nhưng thực tế đang xếp 9 người.
+   -> Ca thi 20260528_1 tại Cơ sở 1 (Ngày 28/05/2026): Yêu cầu 1 người, nhưng thực tế đang xếp 5 người.
+   -> Ca thi 20260528_2 tại Cơ sở 1 (Ngày 28/05/2026): Yêu cầu 1 người, nhưng thực tế đang xếp 3 người.
+   -> Ca thi 20260528_3 tại Cơ sở 2 (Ngày 28/05/2026): Yêu cầu 14 người, nhưng thực tế đang xếp 9 người.
+   -> Ca thi 20260528_4 tại Cơ sở 1 (Ngày 28/05/2026): Yêu cầu 1 người, nhưng thực tế đang xếp 7 người.
+   -> Ca thi 20260528_5 tại Cơ sở 1 (Ngày 28/05/2026): Yêu cầu 3 người, nhưng thực tế đang xếp 2 người.
+   -> Ca thi 20260605_2 tại Cơ sở 1 (Ngày 05/06/2026): Yêu cầu 22 người, nhưng thực tế đang xếp 8 người.
+   -> Ca thi 20260605_3 tại Cơ sở 1 (Ngày 05/06/2026): Yêu cầu 30 người, nhưng thực tế đang xếp 8 người.
+   -> Ca thi 20260605_4 tại Cơ sở 1 (Ngày 05/06/2026): Yêu cầu 5 người, nhưng thực tế đang xếp 7 người.
+   -> Ca thi 20260612_1 tại Cơ sở 1 (Ngày 12/06/2026): Yêu cầu 30 người, nhưng thực tế đang xếp 2 người.
+   -> Ca thi 20260612_2 tại Cơ sở 1 (Ngày 12/06/2026): Yêu cầu 4 người, nhưng thực tế đang xếp 8 người.
+   -> Ca thi 20260612_3 tại Cơ sở 1 (Ngày 12/06/2026): Yêu cầu 30 người, nhưng thực tế đang xếp 4 người.
+   -> Ca thi 20260612_4 tại Cơ sở 1 (Ngày 12/06/2026): Yêu cầu 21 người, nhưng thực tế đang xếp 3 người.
+   -> Ca thi 20260522_5 tại Cơ sở 1 (Ngày 22/05/2026): Yêu cầu 2 người, nhưng thực tế đang xếp 3 người.
+   -> Ca thi 20260529_1 tại Cơ sở 1 (Ngày 29/05/2026): Yêu cầu 1 người, nhưng thực tế đang xếp 6 người.
+   -> Ca thi 20260529_1 tại Cơ sở 2 (Ngày 29/05/2026): Yêu cầu 31 người, nhưng thực tế đang xếp 7 người.
+   -> Ca thi 20260529_2 tại Cơ sở 1 (Ngày 29/05/2026): Yêu cầu 1 người, nhưng thực tế đang xếp 7 người.
+   -> Ca thi 20260529_3 tại Cơ sở 1 (Ngày 29/05/2026): Yêu cầu 1 người, nhưng thực tế đang xếp 5 người.
+   -> Ca thi 20260529_5 tại Cơ sở 1 (Ngày 29/05/2026): Yêu cầu 3 người, nhưng thực tế đang xếp 1 người.
+   -> Ca thi 20260613_2 tại Cơ sở 1 (Ngày 13/06/2026): Yêu cầu 2 người, nhưng thực tế đang xếp 1 người.
+   -> Ca thi 20260613_2 tại Cơ sở 2 (Ngày 13/06/2026): Yêu cầu 6 người, nhưng thực tế đang xếp 8 người.
+   -> Ca thi 20260613_3 tại Cơ sở 1 (Ngày 13/06/2026): Yêu cầu 4 người, nhưng thực tế đang xếp 6 người.
+   -> Ca thi 20260613_3 tại Cơ sở 2 (Ngày 13/06/2026): Yêu cầu 6 người, nhưng thực tế đang xếp 9 người.
+   -> Ca thi 20260613_4 tại Cơ sở 1 (Ngày 13/06/2026): Yêu cầu 4 người, nhưng thực tế đang xếp 1 người.
+   -> Ca thi 20260613_4 tại Cơ sở 2 (Ngày 13/06/2026): Yêu cầu 6 người, nhưng thực tế đang xếp 1 người.
+   -> Ca thi 20260523_3 tại Cơ sở 1 (Ngày 23/05/2026): Yêu cầu 6 người, nhưng thực tế đang xếp 4 người.
+   -> Ca thi 20260530_2 tại Cơ sở 1 (Ngày 30/05/2026): Yêu cầu 4 người, nhưng thực tế đang xếp 6 người.
+   -> Ca thi 20260530_3 tại Cơ sở 1 (Ngày 30/05/2026): Yêu cầu 4 người, nhưng thực tế đang xếp 9 người.
+📌 RB10_LienTiepKhacCoSo: PASS
+
+[PHẦN 2] CHI TIẾT VI PHẠM RÀNG BUỘC MỀM (SOFT CONSTRAINTS)
+-----------------------------------------------------------------
+[-] RB8_CongBang                   | Phạt:  245.92 điểm | Tổng độ lệch: 30.74 ca (Trung bình mu = 5.3)
+[-] RB3_ItNhat1Ca                  | Phạt:    0.00 điểm | Có 0 cán bộ không được phân công ca nào.
+[-] RB7_KhoangCach                 | Phạt: 33186.30 điểm | Tổng quãng đường di chuyển: 4740.9 km.
+[-] RB9_NhieuCaCungNgayKhacCoSo    | Phạt:   12.00 điểm | Vi phạm 2 lần (gác >= 2 ca/ngày nhưng phải chạy khác cơ sở).
+[-] RB11_NghiNgoiChuaDu            | Phạt:   28.00 điểm | Vi phạm 7 lần (thời gian nghỉ giữa 2 ca < 3 tiếng).
+[-] RB6_UuTienNguoiLonTuoi         | Phạt:   12.58 điểm | Có 6 cán bộ >45t bị xếp quá số ca trần.
+[-] RB13_DaDangCongSu              | Phạt:  174.00 điểm | Có 87 cặp đôi phải gác chung với nhau >= 3 lần.
+[-] RB14_HanCheCuoiTuan            | Phạt:   52.00 điểm | Tổng số lượt cán bộ phải gác vào Thứ 7/Chủ Nhật: 52 lượt.
+
+>> DANH SÁCH KHẢO SÁT CHI TIẾT TỪNG TRƯỜNG HỢP BỊ TRỪ ĐIỂM MỀM:
+
+* [RB3] Cán bộ không được phân công ca nào (0 ca):
+  -> Không có ai bị bỏ sót.
+
+* [RB8] Mức độ lệch tải công việc (Tiêu chuẩn trung bình μ = 5.30 ca/người):
+  -> Cán bộ CB001: Trực 6 ca (Chênh lệch: 0.70 ca)
+  -> Cán bộ CB002: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB003: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB004: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB005: Trực 6 ca (Chênh lệch: 0.70 ca)
+  -> Cán bộ CB006: Trực 6 ca (Chênh lệch: 0.70 ca)
+  -> Cán bộ CB007: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB008: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB009: Trực 6 ca (Chênh lệch: 0.70 ca)
+  -> Cán bộ CB010: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB011: Trực 6 ca (Chênh lệch: 0.70 ca)
+  -> Cán bộ CB012: Trực 6 ca (Chênh lệch: 0.70 ca)
+  -> Cán bộ CB013: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB014: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB015: Trực 6 ca (Chênh lệch: 0.70 ca)
+  -> Cán bộ CB016: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB017: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB018: Trực 6 ca (Chênh lệch: 0.70 ca)
+  -> Cán bộ CB019: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB020: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB021: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB022: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB023: Trực 6 ca (Chênh lệch: 0.70 ca)
+  -> Cán bộ CB024: Trực 6 ca (Chênh lệch: 0.70 ca)
+  -> Cán bộ CB025: Trực 6 ca (Chênh lệch: 0.70 ca)
+  -> Cán bộ CB026: Trực 6 ca (Chênh lệch: 0.70 ca)
+  -> Cán bộ CB027: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB028: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB029: Trực 6 ca (Chênh lệch: 0.70 ca)
+  -> Cán bộ CB030: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB031: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB032: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB033: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB034: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB035: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB036: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB037: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB038: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB039: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB040: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB041: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB042: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB043: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB044: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB045: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB046: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB047: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB048: Trực 6 ca (Chênh lệch: 0.70 ca)
+  -> Cán bộ CB049: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB050: Trực 6 ca (Chênh lệch: 0.70 ca)
+  -> Cán bộ CB051: Trực 6 ca (Chênh lệch: 0.70 ca)
+  -> Cán bộ CB052: Trực 6 ca (Chênh lệch: 0.70 ca)
+  -> Cán bộ CB053: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB054: Trực 6 ca (Chênh lệch: 0.70 ca)
+  -> Cán bộ CB055: Trực 6 ca (Chênh lệch: 0.70 ca)
+  -> Cán bộ CB056: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB057: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB058: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB059: Trực 6 ca (Chênh lệch: 0.70 ca)
+  -> Cán bộ CB060: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB061: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB062: Trực 6 ca (Chênh lệch: 0.70 ca)
+  -> Cán bộ CB063: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB064: Trực 6 ca (Chênh lệch: 0.70 ca)
+  -> Cán bộ CB065: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB066: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB067: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB068: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB069: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB070: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB071: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB072: Trực 5 ca (Chênh lệch: 0.30 ca)
+  -> Cán bộ CB073: Trực 5 ca (Chênh lệch: 0.30 ca)
+
+* [RB7] Chi tiết tổng quãng đường di chuyển của từng cán bộ (km):
+  -> Cán bộ CB001: Tổng quãng đường đi gác = 66.20 km
+  -> Cán bộ CB002: Tổng quãng đường đi gác = 14.00 km
+  -> Cán bộ CB003: Tổng quãng đường đi gác = 66.90 km
+  -> Cán bộ CB004: Tổng quãng đường đi gác = 49.90 km
+  -> Cán bộ CB005: Tổng quãng đường đi gác = 132.40 km
+  -> Cán bộ CB006: Tổng quãng đường đi gác = 65.10 km
+  -> Cán bộ CB007: Tổng quãng đường đi gác = 32.50 km
+  -> Cán bộ CB008: Tổng quãng đường đi gác = 36.50 km
+  -> Cán bộ CB009: Tổng quãng đường đi gác = 112.10 km
+  -> Cán bộ CB010: Tổng quãng đường đi gác = 71.50 km
+  -> Cán bộ CB011: Tổng quãng đường đi gác = 106.60 km
+  -> Cán bộ CB012: Tổng quãng đường đi gác = 68.90 km
+  -> Cán bộ CB013: Tổng quãng đường đi gác = 59.40 km
+  -> Cán bộ CB014: Tổng quãng đường đi gác = 72.70 km
+  -> Cán bộ CB015: Tổng quãng đường đi gác = 60.00 km
+  -> Cán bộ CB016: Tổng quãng đường đi gác = 83.00 km
+  -> Cán bộ CB017: Tổng quãng đường đi gác = 54.10 km
+  -> Cán bộ CB018: Tổng quãng đường đi gác = 50.60 km
+  -> Cán bộ CB019: Tổng quãng đường đi gác = 73.10 km
+  -> Cán bộ CB020: Tổng quãng đường đi gác = 57.70 km
+  -> Cán bộ CB021: Tổng quãng đường đi gác = 47.10 km
+  -> Cán bộ CB022: Tổng quãng đường đi gác = 47.00 km
+  -> Cán bộ CB023: Tổng quãng đường đi gác = 83.10 km
+  -> Cán bộ CB024: Tổng quãng đường đi gác = 82.00 km
+  -> Cán bộ CB025: Tổng quãng đường đi gác = 58.20 km
+  -> Cán bộ CB026: Tổng quãng đường đi gác = 99.60 km
+  -> Cán bộ CB027: Tổng quãng đường đi gác = 62.50 km
+  -> Cán bộ CB028: Tổng quãng đường đi gác = 41.40 km
+  -> Cán bộ CB029: Tổng quãng đường đi gác = 103.00 km
+  -> Cán bộ CB030: Tổng quãng đường đi gác = 57.30 km
+  -> Cán bộ CB031: Tổng quãng đường đi gác = 73.00 km
+  -> Cán bộ CB032: Tổng quãng đường đi gác = 62.30 km
+  -> Cán bộ CB033: Tổng quãng đường đi gác = 77.00 km
+  -> Cán bộ CB034: Tổng quãng đường đi gác = 59.20 km
+  -> Cán bộ CB035: Tổng quãng đường đi gác = 58.50 km
+  -> Cán bộ CB036: Tổng quãng đường đi gác = 96.60 km
+  -> Cán bộ CB037: Tổng quãng đường đi gác = 65.60 km
+  -> Cán bộ CB038: Tổng quãng đường đi gác = 80.40 km
+  -> Cán bộ CB039: Tổng quãng đường đi gác = 35.50 km
+  -> Cán bộ CB040: Tổng quãng đường đi gác = 75.50 km
+  -> Cán bộ CB041: Tổng quãng đường đi gác = 35.30 km
+  -> Cán bộ CB042: Tổng quãng đường đi gác = 68.60 km
+  -> Cán bộ CB043: Tổng quãng đường đi gác = 80.50 km
+  -> Cán bộ CB044: Tổng quãng đường đi gác = 60.00 km
+  -> Cán bộ CB045: Tổng quãng đường đi gác = 57.50 km
+  -> Cán bộ CB046: Tổng quãng đường đi gác = 73.00 km
+  -> Cán bộ CB047: Tổng quãng đường đi gác = 76.50 km
+  -> Cán bộ CB048: Tổng quãng đường đi gác = 85.80 km
+  -> Cán bộ CB049: Tổng quãng đường đi gác = 49.70 km
+  -> Cán bộ CB050: Tổng quãng đường đi gác = 60.00 km
+  -> Cán bộ CB051: Tổng quãng đường đi gác = 60.60 km
+  -> Cán bộ CB052: Tổng quãng đường đi gác = 97.20 km
+  -> Cán bộ CB053: Tổng quãng đường đi gác = 27.00 km
+  -> Cán bộ CB054: Tổng quãng đường đi gác = 55.60 km
+  -> Cán bộ CB055: Tổng quãng đường đi gác = 63.30 km
+  -> Cán bộ CB056: Tổng quãng đường đi gác = 78.60 km
+  -> Cán bộ CB057: Tổng quãng đường đi gác = 63.30 km
+  -> Cán bộ CB058: Tổng quãng đường đi gác = 103.10 km
+  -> Cán bộ CB059: Tổng quãng đường đi gác = 89.70 km
+  -> Cán bộ CB060: Tổng quãng đường đi gác = 57.90 km
+  -> Cán bộ CB061: Tổng quãng đường đi gác = 48.90 km
+  -> Cán bộ CB062: Tổng quãng đường đi gác = 52.80 km
+  -> Cán bộ CB063: Tổng quãng đường đi gác = 43.30 km
+  -> Cán bộ CB064: Tổng quãng đường đi gác = 35.00 km
+  -> Cán bộ CB065: Tổng quãng đường đi gác = 48.90 km
+  -> Cán bộ CB066: Tổng quãng đường đi gác = 106.70 km
+  -> Cán bộ CB067: Tổng quãng đường đi gác = 52.60 km
+  -> Cán bộ CB068: Tổng quãng đường đi gác = 64.80 km
+  -> Cán bộ CB069: Tổng quãng đường đi gác = 64.30 km
+  -> Cán bộ CB070: Tổng quãng đường đi gác = 45.80 km
+  -> Cán bộ CB071: Tổng quãng đường đi gác = 42.90 km
+  -> Cán bộ CB072: Tổng quãng đường đi gác = 63.20 km
+  -> Cán bộ CB073: Tổng quãng đường đi gác = 30.50 km
+
+* [RB9] Cán bộ trực nhiều ca cùng ngày nhưng phải di chuyển khác cơ sở:
+  -> Cán bộ CB039 ngày 01/06/2026 di chuyển: Cơ sở 2 gác ca 20260601_3 -->> Cơ sở 1 gác ca 20260601_5
+  -> Cán bộ CB061 ngày 01/06/2026 di chuyển: Cơ sở 2 gác ca 20260601_2 -->> Cơ sở 1 gác ca 20260601_5
+
+* [RB11] Chi tiết các ca xếp sát nhau có thời gian nghỉ ngơi chưa đủ (< 2 tiếng):
+  -> Cán bộ CB031: Ca 20260608_3 xong lúc 15:30, ca 20260608_4 bắt đầu lúc 15:30 (Nghỉ 0.00 tiếng)
+  -> Cán bộ CB054: Ca 20260608_3 xong lúc 15:30, ca 20260608_4 bắt đầu lúc 15:30 (Nghỉ 0.00 tiếng)
+  -> Cán bộ CB059: Ca 20260608_2 xong lúc 12:00, ca 20260608_3 bắt đầu lúc 13:00 (Nghỉ 1.00 tiếng)
+  -> Cán bộ CB060: Ca 20260613_2 xong lúc 12:00, ca 20260613_3 bắt đầu lúc 13:00 (Nghỉ 1.00 tiếng)
+  -> Cán bộ CB065: Ca 20260609_2 xong lúc 12:00, ca 20260609_3 bắt đầu lúc 13:00 (Nghỉ 1.00 tiếng)
+  -> Cán bộ CB068: Ca 20260529_1 xong lúc 09:30, ca 20260529_2 bắt đầu lúc 09:30 (Nghỉ 0.00 tiếng)
+
+* [RB6] Cán bộ lớn tuổi (>45 tuổi) bị phân phối vượt trần trung bình:
+  -> Cán bộ CB006 (56 tuổi): Trực 6 ca (Vượt trần 0.70 ca)
+  -> Cán bộ CB018 (48 tuổi): Trực 6 ca (Vượt trần 0.70 ca)
+  -> Cán bộ CB048 (57 tuổi): Trực 6 ca (Vượt trần 0.70 ca)
+  -> Cán bộ CB050 (57 tuổi): Trực 6 ca (Vượt trần 0.70 ca)
+  -> Cán bộ CB059 (58 tuổi): Trực 6 ca (Vượt trần 0.70 ca)
+  -> Cán bộ CB062 (56 tuổi): Trực 6 ca (Vượt trần 0.70 ca)
+
+* [RB13] Chi tiết các cặp đôi gác chung với nhau quá nhiều lần (>= 3 lần):
+  -> Cặp (CB029, CB072): Gác chung 3 lần
+  -> Cặp (CB038, CB069): Gác chung 3 lần
+  -> Cặp (CB034, CB048): Gác chung 3 lần
+
+* [RB14] Chi tiết các lượt gác rơi vào Thứ 7 hoặc Chủ Nhật:
+  -> Cán bộ CB058 gác ca 20260531_2 vào ngày nghỉ Chủ Nhật (Cơ sở 1)
+  -> Cán bộ CB006 gác ca 20260531_2 vào ngày nghỉ Chủ Nhật (Cơ sở 1)
+  -> Cán bộ CB001 gác ca 20260531_3 vào ngày nghỉ Chủ Nhật (Cơ sở 1)
+  -> Cán bộ CB068 gác ca 20260613_1 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB006 gác ca 20260613_1 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB022 gác ca 20260613_1 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB008 gác ca 20260613_1 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB047 gác ca 20260613_2 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB032 gác ca 20260613_2 vào ngày nghỉ Thứ 7 (Cơ sở 2)
+  -> Cán bộ CB035 gác ca 20260613_2 vào ngày nghỉ Thứ 7 (Cơ sở 2)
+  -> Cán bộ CB042 gác ca 20260613_2 vào ngày nghỉ Thứ 7 (Cơ sở 2)
+  -> Cán bộ CB017 gác ca 20260613_2 vào ngày nghỉ Thứ 7 (Cơ sở 2)
+  -> Cán bộ CB004 gác ca 20260613_2 vào ngày nghỉ Thứ 7 (Cơ sở 2)
+  -> Cán bộ CB056 gác ca 20260613_2 vào ngày nghỉ Thứ 7 (Cơ sở 2)
+  -> Cán bộ CB060 gác ca 20260613_2 vào ngày nghỉ Thứ 7 (Cơ sở 2)
+  -> Cán bộ CB037 gác ca 20260613_2 vào ngày nghỉ Thứ 7 (Cơ sở 2)
+  -> Cán bộ CB045 gác ca 20260613_3 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB066 gác ca 20260613_3 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB015 gác ca 20260613_3 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB055 gác ca 20260613_3 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB040 gác ca 20260613_3 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB058 gác ca 20260613_3 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB030 gác ca 20260613_3 vào ngày nghỉ Thứ 7 (Cơ sở 2)
+  -> Cán bộ CB010 gác ca 20260613_3 vào ngày nghỉ Thứ 7 (Cơ sở 2)
+  -> Cán bộ CB001 gác ca 20260613_3 vào ngày nghỉ Thứ 7 (Cơ sở 2)
+  -> Cán bộ CB062 gác ca 20260613_3 vào ngày nghỉ Thứ 7 (Cơ sở 2)
+  -> Cán bộ CB057 gác ca 20260613_3 vào ngày nghỉ Thứ 7 (Cơ sở 2)
+  -> Cán bộ CB053 gác ca 20260613_3 vào ngày nghỉ Thứ 7 (Cơ sở 2)
+  -> Cán bộ CB059 gác ca 20260613_3 vào ngày nghỉ Thứ 7 (Cơ sở 2)
+  -> Cán bộ CB013 gác ca 20260613_3 vào ngày nghỉ Thứ 7 (Cơ sở 2)
+  -> Cán bộ CB060 gác ca 20260613_3 vào ngày nghỉ Thứ 7 (Cơ sở 2)
+  -> Cán bộ CB028 gác ca 20260613_4 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB070 gác ca 20260613_4 vào ngày nghỉ Thứ 7 (Cơ sở 2)
+  -> Cán bộ CB049 gác ca 20260523_3 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB047 gác ca 20260523_3 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB035 gác ca 20260523_3 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB057 gác ca 20260523_3 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB011 gác ca 20260530_2 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB035 gác ca 20260530_2 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB040 gác ca 20260530_2 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB072 gác ca 20260530_2 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB064 gác ca 20260530_2 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB037 gác ca 20260530_2 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB068 gác ca 20260530_3 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB002 gác ca 20260530_3 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB003 gác ca 20260530_3 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB070 gác ca 20260530_3 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB013 gác ca 20260530_3 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB001 gác ca 20260530_3 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB043 gác ca 20260530_3 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB027 gác ca 20260530_3 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+  -> Cán bộ CB057 gác ca 20260530_3 vào ngày nghỉ Thứ 7 (Cơ sở 1)
+
+* [RB5] Thống kê tần suất gác chi tiết của các cán bộ Nữ:
+  -> Cán bộ Nữ CB003 phải trực 5 ca: 20260608_2, 20260609_4, 20260603_4, 20260610_1, 20260530_3
+  -> Cán bộ Nữ CB009 phải trực 6 ca: 20260608_3, 20260609_2, 20260519_5, 20260610_2, 20260528_3, 20260612_1
+  -> Cán bộ Nữ CB017 phải trực 5 ca: 20260601_2, 20260608_4, 20260525_5, 20260610_1, 20260613_2
+  -> Cán bộ Nữ CB019 phải trực 5 ca: 20260601_1, 20260525_5, 20260604_2, 20260612_4, 20260529_1
+  -> Cán bộ Nữ CB020 phải trực 5 ca: 20260603_1, 20260611_1, 20260605_3, 20260612_2, 20260529_1
+  -> Cán bộ Nữ CB023 phải trực 6 ca: 20260608_4, 20260604_2, 20260611_3, 20260528_3, 20260612_2, 20260529_3
+  -> Cán bộ Nữ CB024 phải trực 6 ca: 20260601_1, 20260518_5, 20260611_1, 20260521_5, 20260612_1, 20260529_1
+  -> Cán bộ Nữ CB025 phải trực 6 ca: 20260602_1, 20260603_1, 20260527_5, 20260528_3, 20260605_4, 20260612_4
+  -> Cán bộ Nữ CB028 phải trực 5 ca: 20260601_4, 20260608_1, 20260518_5, 20260529_1, 20260613_4
+  -> Cán bộ Nữ CB031 phải trực 5 ca: 20260601_2, 20260608_3, 20260608_4, 20260610_1, 20260612_4
+  -> Cán bộ Nữ CB033 phải trực 5 ca: 20260602_1, 20260609_3, 20260526_5, 20260604_1, 20260528_4
+  -> Cán bộ Nữ CB034 phải trực 5 ca: 20260525_5, 20260602_1, 20260602_4, 20260603_2, 20260612_2
+  -> Cán bộ Nữ CB035 phải trực 5 ca: 20260603_3, 20260612_4, 20260613_2, 20260523_3, 20260530_2
+  -> Cán bộ Nữ CB037 phải trực 5 ca: 20260601_1, 20260608_3, 20260605_2, 20260613_2, 20260530_2
+  -> Cán bộ Nữ CB039 phải trực 5 ca: 20260601_3, 20260601_5, 20260608_3, 20260528_4, 20260612_2
+  -> Cán bộ Nữ CB041 phải trực 5 ca: 20260601_3, 20260525_2, 20260602_4, 20260603_3, 20260610_3
+  -> Cán bộ Nữ CB042 phải trực 5 ca: 20260608_4, 20260602_4, 20260528_4, 20260605_2, 20260613_2
+  -> Cán bộ Nữ CB047 phải trực 5 ca: 20260601_1, 20260603_1, 20260604_2, 20260613_2, 20260523_3
+  -> Cán bộ Nữ CB051 phải trực 6 ca: 20260525_2, 20260609_4, 20260610_3, 20260528_1, 20260605_2, 20260612_4
+  -> Cán bộ Nữ CB052 phải trực 6 ca: 20260601_2, 20260602_2, 20260526_5, 20260521_5, 20260528_3, 20260529_1
+  -> Cán bộ Nữ CB053 phải trực 5 ca: 20260608_1, 20260608_3, 20260602_1, 20260609_2, 20260613_3
+  -> Cán bộ Nữ CB054 phải trực 6 ca: 20260601_5, 20260608_3, 20260608_4, 20260602_5, 20260609_2, 20260603_1
+  -> Cán bộ Nữ CB056 phải trực 5 ca: 20260601_4, 20260609_3, 20260527_2, 20260611_3, 20260613_2
+  -> Cán bộ Nữ CB057 phải trực 5 ca: 20260604_2, 20260528_1, 20260613_3, 20260523_3, 20260530_3
+  -> Cán bộ Nữ CB059 phải trực 6 ca: 20260601_4, 20260608_2, 20260608_3, 20260602_4, 20260605_3, 20260613_3
+  -> Cán bộ Nữ CB064 phải trực 6 ca: 20260602_5, 20260604_2, 20260611_3, 20260605_3, 20260529_1, 20260530_2
+  -> Cán bộ Nữ CB065 phải trực 5 ca: 20260608_3, 20260609_2, 20260609_3, 20260611_1, 20260528_3
+  -> Cán bộ Nữ CB066 phải trực 5 ca: 20260601_4, 20260605_2, 20260605_4, 20260529_2, 20260613_3
+  -> Cán bộ Nữ CB068 phải trực 5 ca: 20260602_4, 20260529_1, 20260529_2, 20260613_1, 20260530_3
+  -> Cán bộ Nữ CB072 phải trực 5 ca: 20260601_4, 20260608_4, 20260611_3, 20260521_5, 20260530_2
+  -> Cán bộ Nữ CB073 phải trực 5 ca: 20260608_3, 20260611_1, 20260528_5, 20260612_3, 20260529_3

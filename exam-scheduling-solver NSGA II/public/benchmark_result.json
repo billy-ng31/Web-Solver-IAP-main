@@ -1,0 +1,165 @@
+{
+    "total_score": 3791.77,
+    "charts": [
+        {
+            "name": "CongBang",
+            "penalty": 290.63
+        },
+        {
+            "name": "KhoangCach",
+            "penalty": 955.99
+        },
+        {
+            "name": "NhieuCaCungNgayKhacCoSo",
+            "penalty": 12
+        },
+        {
+            "name": "NghiNgoiChuaDu",
+            "penalty": 384
+        },
+        {
+            "name": "UuTienNguoiLonTuoi",
+            "penalty": 25.15
+        },
+        {
+            "name": "DaDangCongSu",
+            "penalty": 2070
+        },
+        {
+            "name": "HanCheCuoiTuan",
+            "penalty": 54
+        }
+    ],
+    "logs_hard": {
+        "RB1_TrungThoiGian": {
+            "pass": true,
+            "violations": 0,
+            "details": []
+        },
+        "RB2_NguonLuc": {
+            "pass": true,
+            "violations": 0,
+            "details": ""
+        },
+        "RB4_DuGiamThi": {
+            "pass": false,
+            "violations": 75,
+            "details": [
+                "Ca thi 20260531_2 tại Cơ sở 1 (Ngày 31/05/2026): Yêu cầu 2 người, nhưng thực tế đang xếp 4 người.",
+                "Ca thi 20260531_3 tại Cơ sở 1 (Ngày 31/05/2026): Yêu cầu 1 người, nhưng thực tế đang xếp 4 người.",
+                "Ca thi 20260601_1 tại Cơ sở 2 (Ngày 01/06/2026): Yêu cầu 6 người, nhưng thực tế đang xếp 1 người.",
+                "Ca thi 20260601_2 tại Cơ sở 2 (Ngày 01/06/2026): Yêu cầu 6 người, nhưng thực tế đang xếp 32 người.",
+                "Ca thi 20260601_3 tại Cơ sở 2 (Ngày 01/06/2026): Yêu cầu 5 người, nhưng thực tế đang xếp 28 người.",
+                "Ca thi 20260601_4 tại Cơ sở 2 (Ngày 01/06/2026): Yêu cầu 7 người, nhưng thực tế đang xếp 1 người.",
+                "Ca thi 20260601_5 tại Cơ sở 1 (Ngày 01/06/2026): Yêu cầu 9 người, nhưng thực tế đang xếp 1 người.",
+                "Ca thi 20260608_1 tại Cơ sở 2 (Ngày 08/06/2026): Yêu cầu 8 người, nhưng thực tế đang xếp 2 người.",
+                "Ca thi 20260608_2 tại Cơ sở 1 (Ngày 08/06/2026): Yêu cầu 3 người, nhưng thực tế đang xếp 30 người.",
+                "Ca thi 20260608_2 tại Cơ sở 2 (Ngày 08/06/2026): Yêu cầu 2 người, nhưng thực tế đang xếp 3 người.",
+                "Ca thi 20260608_3 tại Cơ sở 1 (Ngày 08/06/2026): Yêu cầu 9 người, nhưng thực tế đang xếp 30 người.",
+                "Ca thi 20260608_4 tại Cơ sở 1 (Ngày 08/06/2026): Yêu cầu 6 người, nhưng thực tế đang xếp 4 người.",
+                "Ca thi 20260608_4 tại Cơ sở 2 (Ngày 08/06/2026): Yêu cầu 9 người, nhưng thực tế đang xếp 3 người.",
+                "Ca thi 20260518_5 tại Cơ sở 1 (Ngày 18/05/2026): Yêu cầu 5 người, nhưng thực tế đang xếp 2 người.",
+                "Ca thi 20260525_2 tại Cơ sở 2 (Ngày 25/05/2026): Yêu cầu 9 người, nhưng thực tế đang xếp 17 người.",
+                "Ca thi 20260525_5 tại Cơ sở 1 (Ngày 25/05/2026): Yêu cầu 6 người, nhưng thực tế đang xếp 3 người.",
+                "Ca thi 20260602_1 tại Cơ sở 2 (Ngày 02/06/2026): Yêu cầu 7 người, nhưng thực tế đang xếp 1 người.",
+                "Ca thi 20260602_2 tại Cơ sở 2 (Ngày 02/06/2026): Yêu cầu 3 người, nhưng thực tế đang xếp 32 người.",
+                "Ca thi 20260602_3 tại Cơ sở 2 (Ngày 02/06/2026): Yêu cầu 3 người, nhưng thực tế đang xếp 32 người.",
+                "Ca thi 20260602_4 tại Cơ sở 2 (Ngày 02/06/2026): Yêu cầu 7 người, nhưng thực tế đang xếp 15 người.",
+                "Ca thi 20260602_5 tại Cơ sở 1 (Ngày 02/06/2026): Yêu cầu 3 người, nhưng thực tế đang xếp 2 người.",
+                "Ca thi 20260609_2 tại Cơ sở 1 (Ngày 09/06/2026): Yêu cầu 3 người, nhưng thực tế đang xếp 5 người.",
+                "Ca thi 20260609_2 tại Cơ sở 2 (Ngày 09/06/2026): Yêu cầu 8 người, nhưng thực tế đang xếp 20 người.",
+                "Ca thi 20260609_3 tại Cơ sở 2 (Ngày 09/06/2026): Yêu cầu 4 người, nhưng thực tế đang xếp 15 người.",
+                "Ca thi 20260609_4 tại Cơ sở 2 (Ngày 09/06/2026): Yêu cầu 5 người, nhưng thực tế đang xếp 1 người.",
+                "Ca thi 20260519_5 tại Cơ sở 1 (Ngày 19/05/2026): Yêu cầu 5 người, nhưng thực tế đang xếp 3 người.",
+                "Ca thi 20260526_5 tại Cơ sở 1 (Ngày 26/05/2026): Yêu cầu 3 người, nhưng thực tế đang xếp 2 người.",
+                "Ca thi 20260603_1 tại Cơ sở 2 (Ngày 03/06/2026): Yêu cầu 9 người, nhưng thực tế đang xếp 31 người.",
+                "Ca thi 20260603_2 tại Cơ sở 2 (Ngày 03/06/2026): Yêu cầu 5 người, nhưng thực tế đang xếp 31 người.",
+                "Ca thi 20260603_3 tại Cơ sở 2 (Ngày 03/06/2026): Yêu cầu 7 người, nhưng thực tế đang xếp 31 người.",
+                "Ca thi 20260603_4 tại Cơ sở 2 (Ngày 03/06/2026): Yêu cầu 1 người, nhưng thực tế đang xếp 21 người.",
+                "Ca thi 20260610_1 tại Cơ sở 1 (Ngày 10/06/2026): Yêu cầu 3 người, nhưng thực tế đang xếp 1 người.",
+                "Ca thi 20260610_1 tại Cơ sở 2 (Ngày 10/06/2026): Yêu cầu 6 người, nhưng thực tế đang xếp 1 người.",
+                "Ca thi 20260610_2 tại Cơ sở 1 (Ngày 10/06/2026): Yêu cầu 2 người, nhưng thực tế đang xếp 1 người.",
+                "Ca thi 20260610_3 tại Cơ sở 2 (Ngày 10/06/2026): Yêu cầu 1 người, nhưng thực tế đang xếp 30 người.",
+                "Ca thi 20260610_4 tại Cơ sở 1 (Ngày 10/06/2026): Yêu cầu 2 người, nhưng thực tế đang xếp 1 người.",
+                "Ca thi 20260527_2 tại Cơ sở 2 (Ngày 27/05/2026): Yêu cầu 4 người, nhưng thực tế đang xếp 2 người.",
+                "Ca thi 20260527_5 tại Cơ sở 1 (Ngày 27/05/2026): Yêu cầu 1 người, nhưng thực tế đang xếp 4 người.",
+                "Ca thi 20260604_1 tại Cơ sở 2 (Ngày 04/06/2026): Yêu cầu 1 người, nhưng thực tế đang xếp 10 người.",
+                "Ca thi 20260604_2 tại Cơ sở 1 (Ngày 04/06/2026): Yêu cầu 4 người, nhưng thực tế đang xếp 7 người.",
+                "Ca thi 20260604_2 tại Cơ sở 2 (Ngày 04/06/2026): Yêu cầu 7 người, nhưng thực tế đang xếp 4 người.",
+                "Ca thi 20260604_3 tại Cơ sở 2 (Ngày 04/06/2026): Yêu cầu 1 người, nhưng thực tế đang xếp 2 người.",
+                "Ca thi 20260611_3 tại Cơ sở 1 (Ngày 11/06/2026): Yêu cầu 4 người, nhưng thực tế đang xếp 2 người.",
+                "Ca thi 20260611_3 tại Cơ sở 2 (Ngày 11/06/2026): Yêu cầu 5 người, nhưng thực tế đang xếp 29 người.",
+                "Ca thi 20260611_1 tại Cơ sở 1 (Ngày 11/06/2026): Yêu cầu 9 người, nhưng thực tế đang xếp 1 người.",
+                "Ca thi 20260521_5 tại Cơ sở 1 (Ngày 21/05/2026): Yêu cầu 9 người, nhưng thực tế đang xếp 2 người.",
+                "Ca thi 20260528_1 tại Cơ sở 1 (Ngày 28/05/2026): Yêu cầu 5 người, nhưng thực tế đang xếp 1 người.",
+                "Ca thi 20260528_2 tại Cơ sở 1 (Ngày 28/05/2026): Yêu cầu 3 người, nhưng thực tế đang xếp 1 người.",
+                "Ca thi 20260528_3 tại Cơ sở 2 (Ngày 28/05/2026): Yêu cầu 9 người, nhưng thực tế đang xếp 14 người.",
+                "Ca thi 20260528_4 tại Cơ sở 1 (Ngày 28/05/2026): Yêu cầu 7 người, nhưng thực tế đang xếp 1 người.",
+                "Ca thi 20260528_5 tại Cơ sở 1 (Ngày 28/05/2026): Yêu cầu 2 người, nhưng thực tế đang xếp 3 người.",
+                "Ca thi 20260605_2 tại Cơ sở 1 (Ngày 05/06/2026): Yêu cầu 8 người, nhưng thực tế đang xếp 22 người.",
+                "Ca thi 20260605_3 tại Cơ sở 1 (Ngày 05/06/2026): Yêu cầu 8 người, nhưng thực tế đang xếp 30 người.",
+                "Ca thi 20260605_4 tại Cơ sở 1 (Ngày 05/06/2026): Yêu cầu 7 người, nhưng thực tế đang xếp 5 người.",
+                "Ca thi 20260612_1 tại Cơ sở 1 (Ngày 12/06/2026): Yêu cầu 2 người, nhưng thực tế đang xếp 32 người.",
+                "Ca thi 20260612_2 tại Cơ sở 1 (Ngày 12/06/2026): Yêu cầu 8 người, nhưng thực tế đang xếp 6 người.",
+                "Ca thi 20260612_3 tại Cơ sở 1 (Ngày 12/06/2026): Yêu cầu 4 người, nhưng thực tế đang xếp 31 người.",
+                "Ca thi 20260612_3 tại Cơ sở 2 (Ngày 12/06/2026): Yêu cầu 1 người, nhưng thực tế đang xếp 2 người.",
+                "Ca thi 20260612_4 tại Cơ sở 1 (Ngày 12/06/2026): Yêu cầu 3 người, nhưng thực tế đang xếp 21 người.",
+                "Ca thi 20260612_4 tại Cơ sở 2 (Ngày 12/06/2026): Yêu cầu 7 người, nhưng thực tế đang xếp 1 người.",
+                "Ca thi 20260522_5 tại Cơ sở 1 (Ngày 22/05/2026): Yêu cầu 3 người, nhưng thực tế đang xếp 2 người.",
+                "Ca thi 20260529_1 tại Cơ sở 1 (Ngày 29/05/2026): Yêu cầu 6 người, nhưng thực tế đang xếp 1 người.",
+                "Ca thi 20260529_1 tại Cơ sở 2 (Ngày 29/05/2026): Yêu cầu 7 người, nhưng thực tế đang xếp 31 người.",
+                "Ca thi 20260529_2 tại Cơ sở 1 (Ngày 29/05/2026): Yêu cầu 7 người, nhưng thực tế đang xếp 1 người.",
+                "Ca thi 20260529_3 tại Cơ sở 1 (Ngày 29/05/2026): Yêu cầu 5 người, nhưng thực tế đang xếp 1 người.",
+                "Ca thi 20260529_5 tại Cơ sở 1 (Ngày 29/05/2026): Yêu cầu 1 người, nhưng thực tế đang xếp 3 người.",
+                "Ca thi 20260613_2 tại Cơ sở 1 (Ngày 13/06/2026): Yêu cầu 1 người, nhưng thực tế đang xếp 2 người.",
+                "Ca thi 20260613_2 tại Cơ sở 2 (Ngày 13/06/2026): Yêu cầu 8 người, nhưng thực tế đang xếp 6 người.",
+                "Ca thi 20260613_3 tại Cơ sở 1 (Ngày 13/06/2026): Yêu cầu 6 người, nhưng thực tế đang xếp 4 người.",
+                "Ca thi 20260613_3 tại Cơ sở 2 (Ngày 13/06/2026): Yêu cầu 9 người, nhưng thực tế đang xếp 6 người.",
+                "Ca thi 20260613_4 tại Cơ sở 1 (Ngày 13/06/2026): Yêu cầu 1 người, nhưng thực tế đang xếp 4 người.",
+                "Ca thi 20260613_4 tại Cơ sở 2 (Ngày 13/06/2026): Yêu cầu 1 người, nhưng thực tế đang xếp 6 người.",
+                "Ca thi 20260523_3 tại Cơ sở 1 (Ngày 23/05/2026): Yêu cầu 4 người, nhưng thực tế đang xếp 6 người.",
+                "Ca thi 20260530_2 tại Cơ sở 1 (Ngày 30/05/2026): Yêu cầu 6 người, nhưng thực tế đang xếp 4 người.",
+                "Ca thi 20260530_3 tại Cơ sở 1 (Ngày 30/05/2026): Yêu cầu 9 người, nhưng thực tế đang xếp 4 người."
+            ]
+        },
+        "RB10_LienTiepKhacCoSo": {
+            "pass": true,
+            "violations": 0,
+            "details": []
+        }
+    },
+    "logs_soft": {
+        "RB8_CongBang": {
+            "score": 290.63,
+            "details": "Tổng độ lệch: 36.33 ca (Trung bình mu = 10.53)"
+        },
+        "RB3_ItNhat1Ca": {
+            "score": 0,
+            "details": "Có 0 cán bộ không được phân công ca nào."
+        },
+        "RB7_KhoangCach": {
+            "score": 955.99,
+            "details": "Tổng quãng đường di chuyển: 9559.9 km."
+        },
+        "RB9_NhieuCaCungNgayKhacCoSo": {
+            "score": 12,
+            "details": "Vi phạm 2 lần (gác >= 2 ca/ngày nhưng phải chạy khác cơ sở)."
+        },
+        "RB11_NghiNgoiChuaDu": {
+            "score": 384,
+            "details": "Vi phạm 96 lần (thời gian nghỉ giữa 2 ca < 3 tiếng)."
+        },
+        "RB6_UuTienNguoiLonTuoi": {
+            "score": 25.15,
+            "details": "Có 18 cán bộ >45t bị xếp quá số ca trần."
+        },
+        "RB13_DaDangCongSu": {
+            "score": 2070,
+            "details": "Có 1035 cặp đôi phải gác chung với nhau >= 3 lần."
+        },
+        "RB14_HanCheCuoiTuan": {
+            "score": 54,
+            "details": "Tổng số lượt cán bộ phải gác vào Thứ 7/Chủ Nhật: 54 lượt."
+        }
+    }
+}

@@ -1,0 +1,17 @@
+# Node.js
+node_modules
+dist
+.env
+
+# Python
+.venv
+__pycache__
+.pyc
+outputs.xlsx
+datatemp
+
+# Hệ điều hành & File linh tinh
+.DS_Store
+.rar
+.zip
+.log
